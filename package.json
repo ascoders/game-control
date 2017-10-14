@@ -1,0 +1,23 @@
+{
+  "name": "game-control",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascoders/game-control.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascoders/game-control/issues"
+  },
+  "homepage": "https://github.com/ascoders/game-control#readme",
+  "devDependencies": {
+    "@types/pixi.js": "^4.5.7",
+    "typescript": "^2.5.3"
+  }
+}
